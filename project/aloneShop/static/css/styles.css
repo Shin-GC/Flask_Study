@@ -1,0 +1,42 @@
+* {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.myitem {
+    width: 500px;
+    height: 300px;
+
+    background-image: url("https://t1.daumcdn.net/liveboard/nts/5bcccfbd33da4865817b9c606b6b852e.JPG");
+    background-position: center;
+    background-size: cover;
+}
+
+.price {
+    font-size: 16px;
+}
+
+.desc {
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.order-box {
+    width: 500px;
+    margin-bottom: 40px;
+}
+
+.mybtn {
+    width: 100px;
+    margin: auto;
+    display: block;
+}
+
+.wrap {
+    margin: auto;
+    width: 700px;
+}
+
+.rate {
+    color: blue;
+}
